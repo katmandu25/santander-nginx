@@ -34,4 +34,4 @@ data:
     }
 kind: ConfigMap
 metadata:
-  name: santander-anagrams-job-cm
+  name: santander-nginx-depploy-cm
