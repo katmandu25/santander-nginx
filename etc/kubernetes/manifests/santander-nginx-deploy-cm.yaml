@@ -34,4 +34,4 @@ data:
     }
 kind: ConfigMap
 metadata:
-  name: santander-nginx-depploy-cm
+  name: santander-nginx-deploy-cm
