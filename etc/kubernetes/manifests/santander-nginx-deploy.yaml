@@ -19,7 +19,7 @@ spec:
             - -g
             - daemon off
           command: 
-            - /docker/entrypoint.sh
+            - /docker-entrypoint.sh
           image: nginx:1.20.1-alpine@sha256:ff543a82e183fe60aaae01f648ac2c8be7513f878982050a6ae37c3f0306a0d1 
           imagePullPolicy: IfNotPresent
           name: santander-nginx-container
